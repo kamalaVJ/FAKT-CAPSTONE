@@ -1,0 +1,3 @@
+.DS_Store
+data-pipeline/relevant_news_10K.json
+data-pipeline/irrelevant_news_10K.json
